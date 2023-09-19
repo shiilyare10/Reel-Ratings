@@ -1,0 +1,86 @@
+
+.bg 
+{
+    background: linear-gradient(90deg, #000 0%, rgba(0, 0, 0, 0.63) 57.81%, rgba(217, 217, 217, 0.00) 100%), 
+     url('../image/background1.png'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 100%; 
+    height: 100vh; 
+}
+
+.containerl
+{
+    color: white;
+    margin: 0;
+    padding: 30px;
+}
+
+.containerl label
+{
+    font-size: large;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.containerl input
+{
+    margin: 0;
+    padding: 5px;
+    
+    border-radius: 5px;
+}
+
+.containerl a
+{
+    text-align: center;
+}
+
+.images
+{
+    display: flex;
+    margin-top: 30px;
+    justify-content: left;
+    align-items: left;
+}
+
+.images img
+{
+    margin-left: 10px;
+    padding-left: 50px;   
+}
+
+.containerl h2
+{
+    font-size: 33px;
+    font-family:sans-serif;
+    color: white;
+    padding-left: 10px;
+    
+}
+
+.pass
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    justify-content: center;
+    text-align: center;
+}
+
+.buttons
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons button
+{
+    width: 40%;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;   
+}
+
+
